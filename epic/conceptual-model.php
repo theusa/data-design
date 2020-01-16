@@ -39,7 +39,7 @@
         <li>Many <strong>Item Results</strong> can be reviewed by many <strong>Profiles (many to many) </strong></li>
     </ul>
 
-<img src="data-design_diagam_take_2.jpg alt="ERD"/>
+<img src="data-design_diagam_take_2.jpg" alt= "ERD" />
 
 <p> Check out her <a href = persona.php><strong>Persona</strong></a></p>
 <p>Also check out her <a href = user-story.php><strong>Story</strong></a>.</p>
