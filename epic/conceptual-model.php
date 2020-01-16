@@ -19,16 +19,16 @@
     <h2>Item Results</h2>
     <ul>
         <li>itemTitle</li>
-        <li>sellerId</li>
+        <li>itemId</li>
         <li>itemPrice</li>
         <li>itemPicture</li>
-        <li>deliveryDate</li>
+        <li>itemDate</li>
     </ul>
 
     <h2>Reviews</h2>
     <ul>
         <li>reviewProfileId</li>
-        <li>deliveryMethod</li>
+        <li>reviewStars</li>
         <li>reviewCount</li>
         <li>reviewAggregate</li>
     </ul>
@@ -39,7 +39,7 @@
         <li>Many <strong>Item Results</strong> can be reviewed by many <strong>Profiles (many to many) </strong></li>
     </ul>
 
-<img src="data-design-conceptual-model-1.jpg" alt="ERD"/>
+<img src="data-design_diagam_take_2.jpg alt="ERD"/>
 
 <p> Check out her <a href = persona.php><strong>Persona</strong></a></p>
 <p>Also check out her <a href = user-story.php><strong>Story</strong></a>.</p>

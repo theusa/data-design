@@ -33,3 +33,4 @@
 <p>Also check out her <a href = user-story.php><strong>Story</strong></a>.</p>
 <p>And <a href = use-case-interaction.php/> <strong>here</strong></a> is how she interacts with Amazon.</p>
 <p>Here is a <a href="conceptual-model.php">conceptual <span class="model"> model </span></a>  for <a href="www.amazon.com">Amazon.com</a></p>
+
